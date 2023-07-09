@@ -1,0 +1,15 @@
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\bin\Debug\net6.0\example004_ArrayLibrary.exe
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\bin\Debug\net6.0\example004_ArrayLibrary.deps.json
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\bin\Debug\net6.0\example004_ArrayLibrary.runtimeconfig.json
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\bin\Debug\net6.0\example004_ArrayLibrary.dll
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\bin\Debug\net6.0\example004_ArrayLibrary.pdb
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.dll
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\refint\example004_ArrayLibrary.dll
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.pdb
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\example004_ArrayLibrary.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GB\C#\lesson2\example004_ArrayLibrary\obj\Debug\net6.0\ref\example004_ArrayLibrary.dll
