@@ -1,0 +1,15 @@
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\bin\Debug\net6.0\example007_triangle.exe
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\bin\Debug\net6.0\example007_triangle.deps.json
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\bin\Debug\net6.0\example007_triangle.runtimeconfig.json
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\bin\Debug\net6.0\example007_triangle.dll
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\bin\Debug\net6.0\example007_triangle.pdb
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.dll
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\refint\example007_triangle.dll
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.pdb
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\example007_triangle.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GB\C#\lesson1\example007_triangle\obj\Debug\net6.0\ref\example007_triangle.dll
