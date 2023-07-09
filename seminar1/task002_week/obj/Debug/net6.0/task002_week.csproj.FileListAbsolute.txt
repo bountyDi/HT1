@@ -1,0 +1,15 @@
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.AssemblyInfoInputs.cache
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.AssemblyInfo.cs
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\bin\Debug\net6.0\task002_week.exe
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\bin\Debug\net6.0\task002_week.deps.json
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\bin\Debug\net6.0\task002_week.runtimeconfig.json
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\bin\Debug\net6.0\task002_week.dll
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\bin\Debug\net6.0\task002_week.pdb
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.dll
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\refint\task002_week.dll
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.pdb
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\task002_week.genruntimeconfig.cache
+C:\Users\Laptop\Documents\GB\C#\seminar1\task002_week\obj\Debug\net6.0\ref\task002_week.dll
